@@ -33,13 +33,13 @@
 3. Притиснути стерильну тканину прямо на ураження (ручний тиск).
 4. Після того, як стерильну тканину безпосередньо накладають на рану, її фіксують пов’язкою, щоб закріпити цю стерильну тканину. В ідеалі ця повʼязка має вбирати рідину, бути еластичною, має бути більше, ніж сама рана і шматок стерильної тканини, що є на рані. Часто використовують стерильний трикутний бинт (все ще складений у прямокутну форму) або товсту пачку марлі або еластичний бинт. Рана обмотується туго, **але не надто туго, щоб завдати будь-яких подальших пошкоджень**.
 
-    <img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/fabric-bandage.png?raw=true" width="400px" />
+    <img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/fabric-bandage.png?raw=true" width="550px" />
 
 
 5. Проконтролювати час рекапілярності кровотоку (див картинку знизу). Це потрібно, щоб проконтролювати, що повʼязка не занадто сильно затягнена і кров може розповсюджуватись далі на кінцівку. Для цього затисніть частину кінцівки, що знаходиться нижче банжажу, кров має повертатись туди протягом 1-3 секунд приблизно (шкіра має ставати знову рожевою).
 6. Пацієнт не має відчувати болю в затисненій кінцівці і має мати можливість рухати кінцівкою, яка затиснена.
 
-    <img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/capilarity-time-test.png?raw=true" width="400px" />
+    <img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/capilarity-time-test.png?raw=true" width="550px" />
 
 **Ускладнення**
 
@@ -129,13 +129,13 @@
 1. Приготуйте два довгих стрічки стерильної (бажано) тканини шириною в 6-8 см та жорсткий обєкт форми палки (наприклад, кулінарну ложку, дерев’яну паличку).
 2. Обернути навколо кінцівки **не менше ніж на 5 см вище місця травми**, завʼязати
 
-    <img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/hip-tourniquet-first-bandage.png?raw=true" width="600px" />
+    <img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/hip-tourniquet-first-bandage.png?raw=true" width="400px" />
 
 3. Перпендикулярно до вузла покласти  жорсткий обєкт форми палки і завʼязати ще один вузол. Палка має бути між 2ма вузлами інакше кінцівка може бути уражена, якщо поставити палку зразу на мʼяку тканину.
 4. Повертати палку до повної зупинки крові.
 5. Можна накласти другий бандаж, що зафіксує палку, інакше її треба буде тримати, щоб не розкрутилась
 
-    <img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/hip-tourniquet-second-bandage.png?raw=true" width="600px" />
+    <img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/hip-tourniquet-second-bandage.png?raw=true" width="700px" />
 
 **Ускладнення**
 
