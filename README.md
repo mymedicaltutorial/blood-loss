@@ -33,7 +33,7 @@
 3. Притиснути стерильну тканину прямо на ураження (ручний тиск).
 4. Після того, як стерильну тканину безпосередньо накладають на рану, її фіксують пов’язкою, щоб закріпити цю стерильну тканину. В ідеалі ця повʼязка має вбирати рідину, бути еластичною, має бути більше, ніж сама рана і шматок стерильної тканини, що є на рані. Часто використовують стерильний трикутний бинт (все ще складений у прямокутну форму) або товсту пачку марлі або еластичний бинт. Рана обмотується туго, **але не надто туго, щоб завдати будь-яких подальших пошкоджень**.
 
-<img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/fabric-bandage.png?raw=true" />
+    <img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/fabric-bandage.png?raw=true" />
 
 
 5. Проконтролювати час рекапілярності кровотоку (див картинку знизу). Це потрібно, щоб проконтролювати, що повʼязка не занадто сильно затягнена і кров може розповсюджуватись далі на кінцівку. Для цього затисніть частину кінцівки, що знаходиться нижче банжажу, кров має повертатись туди протягом 1-3 секунд приблизно (шкіра має ставати знову рожевою).
@@ -77,23 +77,23 @@
 
 2. Одягти і затягти. При кріпленні на стегно ремінець необхідно протягнути через обидва вушка пряжки.
 
-<img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/apply-tourniquet.png?raw=true" />
+    <img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/apply-tourniquet.png?raw=true" />
 
 3. Затягнути турнікет. Підтягуючи ремінь до шкіри, важливо міцно тримати фіксатор на бічній стороні стегна як протилежну точку, а іншою рукою міцно протягнути ремінь через обидва вушка пряжки, доки ремінець не буде щільно прилягати до шкіри.
 
-<img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/tighten-tourniquet.png?raw=true" />
+    <img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/tighten-tourniquet.png?raw=true" />
 
 4. Кріплення стрічки. Після того, як турнікет буде міцно затягнутий на кінцівку, решту липучок навколо кінцівки необхідно щільно притиснути до стрічки.
 
-<img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/fasten-tourniquet.png?raw=true" />
+    <img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/fasten-tourniquet.png?raw=true" />
 
 5. Закручування турнікету методом оборотів ручки на турнікеті. Правильне обертання тут не має значення. Однак важливо те, що джгут затягують до тих пір, поки кровотеча не зупиниться.
 
-<img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/tighten-more-tourniquet.png?raw=true" />
+    <img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/tighten-more-tourniquet.png?raw=true" />
 
 6. Фіксація кляпу. Після того, як турнікет буде достатньо затягнутий, кляп необхідно закріпити в одному з двох U-подібних гачків.
 
-<img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/fixate-tourniquet.png?raw=true" />
+    <img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/fixate-tourniquet.png?raw=true" />
 
 7. Час накладання джгута повинен бути задокументований і зазначений під час передачі пацієнта. Крім вищезгаданих липучок і протоколу лікаря швидкої допомоги, можна також розглянути шкіру пацієнта.
 
@@ -129,13 +129,13 @@
 1. Приготуйте два довгих стрічки стерильної (бажано) тканини шириною в 6-8 см та жорсткий обєкт форми палки (наприклад, кулінарну ложку, дерев’яну паличку).
 2. Обернути навколо кінцівки **не менше ніж на 5 см вище місця травми**, завʼязати
 
-<img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/hip-tourniquet-first-bandage.png?raw=true" />
+    <img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/hip-tourniquet-first-bandage.png?raw=true" />
 
 3. Перпендикулярно до вузла покласти  жорсткий обєкт форми палки і завʼязати ще один вузол. Палка має бути між 2ма вузлами інакше кінцівка може бути уражена, якщо поставити палку зразу на мʼяку тканину.
 4. Повертати палку до повної зупинки крові.
 5. Можна накласти другий бандаж, що зафіксує палку, інакше її треба буде тримати, щоб не розкрутилась
 
-<img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/hip-tourniquet-second-bandage.png?raw=true" />
+    <img src="https://github.com/mymedicaltutorial/blood-loss/blob/master/img/hip-tourniquet-second-bandage.png?raw=true" />
 
 **Ускладнення**
 
@@ -146,7 +146,7 @@
 5. Викликає застій замість перев’язки (кровотеча посилюється) — правильно накладіть лігатуру та затягніть, поки кровотеча не зупиниться
 6. Пульс на зав’язаній частині тіла вже не відчути!
 
-## Догляд за ампутованою кінцівкаю
+## Догляд за ампутованою кінцівкою
 
 Усі відрізані частини тіла необхідно відвезти з пацієнтом до лікарні. Частини тіла **не очищають і ні в якому разі не миють водою**, а лише прикладають до краю стерильну тканину. Будь-які предмети одягу, які все ще присутні, залишаються як є (наприклад, рукавички, взуття).
 
