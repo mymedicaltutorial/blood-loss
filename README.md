@@ -104,8 +104,8 @@
 
 **Універсальна техніка імпровізованого турнікета (відео гайд)**
 
-* На руці https://www.youtube.com/watch?v=DVBJ-9fNAxM
-* На нозі https://www.youtube.com/watch?v=pFQWgy6qAdc 
+* На руці [https://www.youtube.com/watch?v=DVBJ-9fNAxM](https://www.youtube.com/watch?v=DVBJ-9fNAxM)
+* На нозі [https://www.youtube.com/watch?v=pFQWgy6qAdc](https://www.youtube.com/watch?v=pFQWgy6qAdc)
 * Загальна методика така сама, як показано на вищезазначених відео
 
 #### Імпровізована турнікетна система для надпліччя, варіант 1
